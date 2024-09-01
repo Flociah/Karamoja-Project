@@ -1,6 +1,3 @@
-# Karamoja-Project
-Sure! Here's a template for a README file that you can use for your Karamoja Project. This README covers the project objectives, data description, setup instructions, and usage.
-
 # Karamoja Food Security Monitoring Project
 
 ## Overview
@@ -42,8 +39,8 @@ The project uses the following datasets:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/karamoja-project.git
-   cd karamoja-project
+   git clone https://github.com/Flociah/Karamoja-Project.git
+   cd Karamoja-Project
    ```
 
 2. **Install Required Libraries:**
@@ -63,7 +60,7 @@ The project uses the following datasets:
    Execute the Jupyter Notebook to perform data cleaning, merging, and calculations:
 
    ```bash
-   jupyter notebook Karamoja_Project.ipynb
+   jupyter notebook Karamoja-Project.ipynb
    ```
 
 ## Data Preparation
@@ -98,19 +95,16 @@ The project uses the following datasets:
 
 ## Contributing
 
-If you would like to contribute to this project, please fork the repository, make your changes, and submit a pull request. Ensure that your changes are well-documented and tested.
+If you want to contribute to this project, please fork the repository, make changes, and submit a pull request. Please make sure that your changes are well-documented and tested.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any questions or suggestions, please contact:
 
 - **Name:** [Morebu Flociah Bina]
-- **Email:** [flociahbina@gmail.com]
-- **GitHub:** [Your GitHub Profile URL]
+  - [flociahbina@gmail.com] (**Email:**)
+- [https://github.com/Flociah] (**GitHub:**)
 
 ---
 
