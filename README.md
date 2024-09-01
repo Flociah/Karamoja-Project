@@ -56,7 +56,7 @@ Population density and other relevant metrics were calculated to support the ana
 
 The primary outcome of this project is the interactive Tableau dashboard, which provides a comprehensive visual analysis of crop yields and population density in the Karamoja region. This dashboard is a critical tool for NGOs and other stakeholders, enabling them to explore and analyze key data trends through an interactive interface.
 
-![Tableau Dashboard](screenshots/dashboard.png)
+![Tableau Dashboard](dashboard.png)
 
 *The Tableau dashboard, as shown above,  provides  an expansive view of the data.*
 
