@@ -1,5 +1,5 @@
 # Karamoja Food Security Monitoring Project
-![Tableau Dashboard](map.png)
+![Map Overview](map.png)
 ## Overview
 
 The Karamoja Food Security Monitoring Project was conducted to develop a comprehensive food security monitoring tool for the Karamoja region of Uganda. This project focused on analyzing crop yield data for sorghum and maize, utilizing satellite imagery from the 2017 crop season. The primary goal was to support decision-making for NGOs operating in the region by providing detailed insights into crop productivity and population distribution.
