@@ -1,7 +1,6 @@
 # Karamoja-Project
 Sure! Here's a template for a README file that you can use for your Karamoja Project. This README covers the project objectives, data description, setup instructions, and usage.
 
-```markdown
 # Karamoja Food Security Monitoring Project
 
 ## Overview
@@ -117,6 +116,3 @@ For any questions or suggestions, please contact:
 
 Thank you for checking out the Karamoja Food Security Monitoring Project!
 
-```
-
-**Note:** Be sure to replace placeholders like `https://github.com/yourusername/karamoja-project.git`, `[Your Name]`, and `[Your Email]` with your actual information. If you have a license file, include it in the root directory of your project.
