@@ -102,9 +102,9 @@ If you want to contribute to this project, please fork the repository, make chan
 
 For any questions or suggestions, please contact:
 
-- **Name:** [Morebu Flociah Bina]
-  - [flociahbina@gmail.com] (**Email:**)
-- [https://github.com/Flociah] (**GitHub:**)
+- **Name:** Morebu Flociah Bina
+  -[**Email**](flociahbina@gmail.com) 
+--[**GitHub**] (https://github.com/Flociah) 
 
 ---
 
